@@ -6,7 +6,7 @@
   display: flex;
   flex-flow: row;
   justify-content: center;
-  align-items: center;
+  align-items: center; /*centralizar todos elementos dentro do container*/
 }
 
 .justify {
